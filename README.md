@@ -1,4 +1,4 @@
-![Last Commit](https://img.shields.io/github/last-commit/keerthanaoct1990/ETL_Airflow)
+
 
 # ETL_Airflow
 The program collect toll data data available in different formats and consolidate it into a single file.
